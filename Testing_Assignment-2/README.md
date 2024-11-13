@@ -1,5 +1,3 @@
-# Shura-VG.github.io
-
 This project contains automated test scripts for testing various functionalities of a web application using Selenium
 
 ## Prerequisites
